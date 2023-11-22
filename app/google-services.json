@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "741030148671",
+    "firebase_url": "https://pr20winter-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "pr20winter",
+    "storage_bucket": "pr20winter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741030148671:android:7708caae7a0b46e9ec168a",
+        "android_client_info": {
+          "package_name": "com.example.pr20winter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjkqIzxrL4vchK2t8V3-KtkYuxOTqGyNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
